@@ -4,3 +4,13 @@ Hello World
 Second change!
 
 Change on master
+
+Change from b1
+
+Another change from branch b1
+
+More changes!
+
+Even more changes
+
+Are we done?
